@@ -1,0 +1,13 @@
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\bin\Debug\QLTinhThanhVietNam.exe.config
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\bin\Debug\QLTinhThanhVietNam.exe
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\bin\Debug\QLTinhThanhVietNam.pdb
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.csproj.AssemblyReference.cache
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.Home.resources
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.Properties.Resources.resources
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.csproj.GenerateResource.cache
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.csproj.CoreCompileInputs.cache
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.exe
+D:\Project-DuAn\QLTinhThanhVietNam\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.pdb
+D:\Project-DuAn\QLTinhThanhVietNam\UseSQLServer\QLTinhThanhVietNam\QLTinhThanhVietNam\bin\Debug\QLTinhThanhVietNam.exe.config
+D:\Project-DuAn\QLTinhThanhVietNam\UseSQLServer\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.exe
+D:\Project-DuAn\QLTinhThanhVietNam\UseSQLServer\QLTinhThanhVietNam\QLTinhThanhVietNam\obj\Debug\QLTinhThanhVietNam.pdb
